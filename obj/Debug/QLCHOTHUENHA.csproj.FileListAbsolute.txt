@@ -1,0 +1,12 @@
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\bin\Debug\QLCHOTHUENHA.exe.config
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\bin\Debug\QLCHOTHUENHA.exe
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\bin\Debug\QLCHOTHUENHA.pdb
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.csproj.AssemblyReference.cache
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.frmNha.resources
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.Form2.resources
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.Properties.Resources.resources
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.csproj.GenerateResource.cache
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.csproj.CoreCompileInputs.cache
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.exe
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.pdb
+C:\Users\iench\source\repos\QLCHOTHUENHA\QLCHOTHUENHA\obj\Debug\QLCHOTHUENHA.exe.config
